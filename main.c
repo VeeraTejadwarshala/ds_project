@@ -7,7 +7,7 @@ int main()
 	while(1)
 	{
 		printf("Enter ypur choice:\n");
-		printf("a/A->addRecord\n d/D->deleteRecord\ns/S->showRecord\nm/M->ModifyRecord\nv/V->saveRecord\nt/T->sortList\nl/L->deleteAll\nR->revereseList\ne/E->exit\n");
+		printf("a/A->addRecord\n d/D->deleteRecord\ns/S->showRecord\nm/M->ModifyRecord\nv/V->saveRecord\nt/T->sortList\nl/L->deleteAll\nR->revereseLinks\ne/E->exit\n");
 		scanf(" %c",&op);
 		switch(op)
 		{
